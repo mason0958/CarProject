@@ -1,0 +1,35 @@
+#car {
+
+}
+#front_wheel {
+position: fixed;
+background-color: black;
+height: 150px;
+width: 150px;
+border-radius: 50%;
+top: 140px;
+}
+#hood {
+background-color: white;
+position: fixed;
+border-color: black;
+border-width: 4px;
+height: 150px;
+width: 600px;
+top: 100px;
+}
+#body {
+position: fixed;
+}
+#trunk {
+position: fixed;
+}
+#rear_wheel {
+position: fixed;
+background-color: black;
+height: 150px;
+width: 150px;
+border-radius: 50%;
+top: 140px;
+left: 440px;
+}
